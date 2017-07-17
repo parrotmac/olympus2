@@ -37,7 +37,7 @@ $ node app.js --help
 
 
 
-### License
+### License: MIT
 
 ```markdown
 Copyright (c) 2017 Isaac Parker
