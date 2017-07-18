@@ -5,6 +5,8 @@
  * Currently only supports emitting/reading from CAN BUS
  * Designed for use with a CAN to UART adapter
  * Fairly useless by itself
+ * Designed to be used with [Coyote](https://github.com/parrotmac/coyote)
+ * Data can be displayed with a project I might ~~release~~ rewrite soon.
 
 
 ### Wishlist/Roadmap
